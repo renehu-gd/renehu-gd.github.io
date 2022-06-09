@@ -1,2 +1,2 @@
 # renehu-gd.github.io
-Buddy test
+For QA buddy test
